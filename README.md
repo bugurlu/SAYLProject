@@ -1,5 +1,5 @@
 Dear Saylors
-windows and mac versions are on its own braches. 
+windows version is ready to be used. 
 
 enjoy...
 
